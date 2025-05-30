@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Meet your onboarding buddy",
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_BUILD_1.svg"
+  },
+  {
+    "title": "Your first 1:1 with your manager",
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_BUILD_2.svg"
+  },
+  {
+    "title": "Join a resource group",
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_BUILD_3.svg"
+  },
+  {
+    "title": "Attend a networking event",
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_BUILD_4.svg"
+  },
+  {
+    "title": "Find communities on yammer",
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_BUILD_5.svg"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "James McGoldrick",
+    "role": "VP of Franchise Success",
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_1.png"
+  },
+  {
+    "name": "Facilisis Venenatis",
+    "role": "Vitae euismod",
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_2.png"
+  },
+  {
+    "name": "Dolor Faucibus",
+    "role": "Vitae euismod",
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_3.svg"
+  },
+  {
+    "name": "Elit Auctor",
+    "role": "Design Director",
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_1.png"
+  }
+]

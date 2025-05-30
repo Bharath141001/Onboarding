@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "question": "How to reset my password after first login?",
+    "answer": "To change your password after your first login, you generally need to navigate to your account settings and follow the password change or reset procedures specific to the platform or service you're using. Find the 'Security' or 'Password' section, and follow the prompts to change your password."
+  },
+  {
+    "id": "2",
+    "question": "Integer accumsan lacus non aucto Scelerisque porta sed et urna purus proin diam.",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum vestibulum."
+  },
+  {
+    "id": "3",
+    "question": "Ipsum ac lacus eget ut odio lorem tellus. Diam nunc maecenas in ornare quis.",
+    "answer": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae."
+  },
+  {
+    "id": "4",
+    "question": "Interdum sit consequat eget risus mauris condimentum blandit ut a amet libero et.",
+    "answer": "Phasellus vitae suscipit justo. Mauris pharetra feugiat ante id lacinia."
+  }
+]
