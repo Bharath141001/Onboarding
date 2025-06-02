@@ -2,21 +2,29 @@
   {
     "name": "James McGoldrick",
     "role": "VP of Franchise Success",
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_1.png"
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_1.png",
+    "emailurl": "",
+    "contacturl": ""
   },
   {
     "name": "Facilisis Venenatis",
     "role": "Vitae euismod",
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_2.png"
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_2.png",
+    "emailurl": "",
+    "contacturl": ""
   },
   {
     "name": "Dolor Faucibus",
     "role": "Vitae euismod",
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_3.svg"
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_3.svg",
+    "emailurl": "",
+    "contacturl": ""
   },
   {
     "name": "Elit Auctor",
     "role": "Design Director",
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_1.png"
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_MEET_1.png",
+    "emailurl": "",
+    "contacturl": ""
   }
 ]
