@@ -11,55 +11,48 @@
     "title": "Help Desk",
     "link": "",
     "selected": false,
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_HELP.svg",
-    "href": ""
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_HELP.svg"
   },
   {
     "id": "3",
     "title": "Finance",
     "link": "",
     "selected": false,
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_FINANCE.svg",
-    "href": ""
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_FINANCE.svg"
   },
   {
     "id": "4",
     "title": "HR",
     "link": "",
     "selected": false,
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_HR.svg",
-    "href": ""
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_HR.svg"
   },
   {
     "id": "5",
     "title": "Company Policies",
     "link": "",
     "selected": false,
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_POLICY.svg",
-    "href": ""
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_POLICY.svg"
   },
   {
     "id": "6",
     "title": "Employee Handbook",
     "link": "",
     "selected": false,
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_HANDBOOK.svg",
-    "href": ""
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_HANDBOOK.svg"
   },
   {
     "id": "7",
     "title": "Trainings",
     "link": "",
     "selected": false,
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_TRAINING.svg",
-    "href": ""
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_TRAINING.svg"
   },
   {
     "id": "8",
     "title": "Contact Your Buddy",
     "link": "",
     "selected": false,
-    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_BUDDY.svg",
-    "href": ""
+    "image": "https://cdn.jsdelivr.net/gh/Bharath141001/Images@main/Assets/IC_BUDDY.svg"
   }
 ]
